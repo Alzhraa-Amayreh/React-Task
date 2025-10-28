@@ -1,0 +1,11 @@
+.About{
+    background-color:  #1abd9c;
+
+}
+
+
+.customBtn:hover {
+  color: #000 !important;        /* لون النص عند الهوف */
+  background-color: #fff !important; /* لون الخلفية عند الهوف */
+  border-color: #fff !important;     /* لون الحد */
+}
