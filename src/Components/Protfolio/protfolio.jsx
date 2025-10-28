@@ -11,7 +11,7 @@ function Protfolio() {
 
       <section className='protfolio py-5'>
         <div className='container'>
-            <h2 className={`${protfolioStyle.color}  d-flex justify-content-center align-items-center fw-bold py-3`}>Portfolio</h2>
+            <h2 className={`${protfolioStyle.color}  d-flex justify-content-center align-items-center fw-bolder py-3 fs-1`}>Portfolio</h2>
           <div className="row row-cols-1 row-cols-md-3 g-4">
 
             <div className="col">

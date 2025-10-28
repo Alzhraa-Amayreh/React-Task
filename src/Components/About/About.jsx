@@ -7,7 +7,7 @@ function About(){
     <section className={`${AboutStyle.About} py-5 `}>
         <div className="container">
        
-        <h2 className=' d-flex justify-content-center align-items-center fw-bold py-3 text-light fs-1'>About</h2>
+        <h2 className=' d-flex justify-content-center align-items-center fw-bolder py-3 text-light fs-1'>About</h2>
      <div className="row d-flex justify-content-center align-items-center">
     <div className="col-6">
       <p className="text-light text-break fs-5">
@@ -26,7 +26,7 @@ function About(){
   </div>
   <div className='d-flex justify-content-center'>
     
-    <button type="button" className={`btn btn-lg btn-outline-light text-light fw-medium  w-auto mt-4  ${AboutStyle.customBtn} `} > Free Download!</button>
+    <button type="button" className={`btn btn-lg btn-outline-light text-light fw-medium fs-3  w-auto mt-4  ${AboutStyle.customBtn} `} > Free Download!</button>
     </div>
         </div>
 
