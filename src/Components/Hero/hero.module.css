@@ -1,0 +1,16 @@
+.Hero{
+
+    background-color: #1abd9c;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.img{
+width: 300px;
+height: 300px;
+
+}
