@@ -1,0 +1,32 @@
+.footer{
+    background-color: #2b3d4f;;
+}
+/* social icons */
+.socialBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #fff;   
+  background-color: transparent; 
+  color: #fff;            
+
+  text-decoration: none;
+}
+
+.socialBtn:hover {
+  background-color: #fff;   
+  color: #000;             
+  transform: scale(1.2);    
+}
+/* span */
+.link{
+    color: #1abd9c;
+}
+/*  */
+.copyRights{
+
+    background-color: #19242e;
+}
